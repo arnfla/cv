@@ -66,6 +66,10 @@ Bachelor - MyPension, Portable web application with a goal to get younger people
 __DOF Subsea AS__
 Tender Approval Form in Dynamics 365 CRM. Simplify an already existing business process.
 
+`Spring 2018`
+__DOF Management AS__
+Utilizing a shared workspace in Dynamics 365 CRM. Keep related information in the same space.
+
 <div id="webaddress" class="no-print">
   <a href="projects">Detailed project overview</a>
 </div>

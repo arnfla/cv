@@ -34,11 +34,25 @@ __DOF Subsea AS__
 
 __Project:__ This project had the mission of digitalizing the process of getting a tender approved. Their previous solution consisted of putting all relevant in Dynamics 365 CRM, and at the same time printing out a form and filling out the exact same details by hand.  Utilizing Dynamics 365 CRM functionality and workflows the process was simplified and automated. Arne was the main resource in this project, and was responsible for handling both the technical part and the project overhead. There were several meetings with the customer, making sure we were making the right solution for the customer.
 
-__Result:__
+__Result:__ A new entity that took
 
 __Role:__ Project leader, front-end and back-end developer.
 
 __Technologies/Tools:__ Dynamics 365 CRM, Azure Active Directory, Agile, Business Process Management
+
+
+### DOF Marine + CRM
+`Spring 2018`
+__DOF Management AS__
+
+__Project:__ DOF Subsea and DOF Marine wanted to utilize the same tool for keeping track of tenders, projects and the corrensponding backlog. DOF Subsea was already using MS Dynamics CRM for their tender records and as sometimes tenders are shared between these companies they now wanted one place for all the info. As DOF is a public traded company (DOF AS) the customizations also had to comply with
+This was the first time Arne worked with Dynamics 365, only having experience with ServiceNow and record management within that system he was made head techincal lead.
+
+__Result:__ A shared workplace for the two entieies to share tender information. Correct Business Units were setup and RBAC was enforced on the onboarding users.
+
+__Role:__ Technical lead, front-end and back-end developer.
+
+__Technologies/Tools:__ Dynamics 365 CRM, Azure Active Directory, Access Control Management, Business Process Management
 
 
 <div id="webaddress" class="no-print">
