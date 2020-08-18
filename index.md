@@ -57,6 +57,45 @@ __ServiceNow__
 
 
 ## Projects
+`Summer 2020`
+__DOF ASA/Austevoll Seafood AS/FMV AS/Marin IT AS__
+Migrate from on-premise Skype for business to Microsoft Teams for chat, calls and meetings.
+
+`Summer 2020`
+__DOF ASA/Austevoll Seafood AS/Marin IT AS__
+Finalize new Cisco Unified Call Manager installation, and plan for next move to cloud calling.
+
+`Summer 2020`
+__DOF ASA/Austevoll Seafood AS/Marin IT AS__
+Design and implement Cisco Webex into the group.
+
+`Spring 2020`
+__Marin IT AS__
+Enable Palo Alto Global Protect VPN for home office use in response to Covid-19.
+
+`Spring 2020`
+__Marin IT AS__
+Stregthen the Citrix environment delivered to customers in response to Covid-19.
+
+`Spring 2020`
+__DOF Management AS__
+Skandi Hawk hardware lifecycle upgrade - Servers and computers in the Philippines.
+
+`Spring 2020`
+__DOF Management AS__
+Skandi Singapore wireless installation and system overhaul in Singapore.
+
+`Spring 2020`
+__Marin IT AS__
+Network infrastructure upgrade to new design - Asia Pacific
+
+`Winter 2019`
+__Marin IT AS__
+Development of Marin IT Service Provider platform - Cloud Datacenter.
+
+`Autumn 2019`
+__Marin IT AS__
+Network infrastructure upgrade to new design - Norway and UK
 
 `Spring 2019`
 __Stacc Insight AS__
@@ -123,6 +162,6 @@ __German__
 
 <!-- ### Footer
 
-Last updated: January 2020 -->
+Last updated: August 2020 -->
 
 
