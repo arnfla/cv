@@ -18,7 +18,9 @@ Studying at *Høgskulen på Vestlandet* and working in Marin IT AS has yielded e
 `Summer 2020`
 __DOF ASA/Austevoll Seafood AS/FMV AS/Marin IT AS__
 
-__Project:__ As a part of the strategy to deliver services in the cloud and the aging Skype for business (SfB) environment an initiative to move from Skype for business on-premise to Skype for business Online was created. This was quickly expanded to move from SfB to Microsoft Teams. Project was therefore to move the users from the SfB servers on-premise to SfB Online and from there enable "Teams Only" mode. On success plans was also made to decomission the old on-premise infrastructure. 
+__Project:__ As a part of the strategy to deliver services in the cloud and the aging Skype for business (SfB) environment an initiative to move from Skype for business on-premise to Skype for business Online was created. This was quickly expanded to move from SfB to Microsoft Teams. Project was therefore to move the users from the SfB servers on-premise to SfB Online and from there enable "Teams Only" mode. Upon success next steps were to decomission the old on-premise infrastructure. 
+
+During the project Arne was in charge of gathering information, presenting information and business cases to the customers, creating the necessary scripts to perform the migration and do the migration it self.
 
 __Result:__ All users on the on-premise servers was moved within a week. Servers are decomissioned and firewall openings removed. Very successful project.
 
@@ -83,7 +85,7 @@ __Technologies/Tools:__ Citrix ADC (Netscaler), Juniper SRX/EX/Virtual Chassis, 
 `Spring 2020`
 __DOF Management AS__
 
-__Project:__ The Skandi Singapore and Skandi Hawk was docked in relatively Singapore and the Philippines, and having travelled all the way from Norway for the network upgrade project we planned for these upgrades to happen successively. Project was to replace old servers on-board, installing the new ones and upgrading to the new vessel platform. Skandi Singapore had additionally a wireless system installed.
+__Project:__ The Skandi Singapore (Diving vessel) and Skandi Hawk (Construction support vessel) was docked in relatively Singapore and the Philippines, and having travelled all the way from Norway for the network upgrade project we planned for these upgrades to happen successively. Project was to replace old servers on-board, installing the new ones and upgrading to the new vessel platform. Skandi Singapore had additionally a wireless system installed.
 
 __Result:__ Vessel upgrade according to charter was completed ontime, with both the Marine and client crew on both ships happy.
 
@@ -98,7 +100,7 @@ __Marin IT AS__
 
 __Project:__ Much like the previous project in Europe we now needed to perform the upgrade in Asia. In the same fasion as with the upgrade in Europe we planned ahead, the sites in Singapore and Perth, Australia were on the agenda. Goals to achieve were; new and better logical design, new IP-addressing, Layer-3 separation and implementing network security. Due to planning for unforseen issues with none arising, we were able to perform the upgrade for two more additional sites while on a quick visit to the Philippines.
 
-__Result:__ All went better than planned, with all planned changes implemented.
+__Result:__ Planned changes finished ahead of time and the users noticied minimal downtime.
 
 __Role:__ Technical lead
 
@@ -109,9 +111,10 @@ __Technologies/Tools:__ Juniper EX/SRX, Palo Alto next-generation firewall, Cisc
 `Winter 2019`
 __Marin TI AS__
 
-__Project:__ Aims to decomission the physical datacenters globally and instead delivering services in the Azure cloud. The whole datacenter infrastructure should be comprised of Infrastructure as Code - hence my role in the project in addition the the network was also assisting with DevOps methodology (pipelines, builds, etc.) Concept was taken out of the Microsoft Cloud Adopation Framework.
+__Project:__ Aims to decomission the physical datacenters globally and instead delivering services in the Azure cloud. The whole datacenter infrastructure should be comprised of Infrastructure as Code. Concept was taken out of the Microsoft Cloud Adopation Framework. 
+Arne was working closely with his colleagues and in addition to the network was also assisting with DevOps methodology (pipelines, builds, etc.), ARM templates and Ansible plays.
 
-__Result:__ N/A - project is still ongoing and was paused due to prioritizations made during the start of the pandemic.
+__Result:__ N/A - project is still ongoing and was paused due to prioritizations made during the start of the Covid-19 pandemic.
 
 __Role:__ Network technician/integrator
 
