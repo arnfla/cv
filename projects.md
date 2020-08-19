@@ -33,7 +33,7 @@ __Technologies/Tools:__ Windows Powershell, Skype for business, Micorosft Teams,
 `Summer 2020`
 __DOF ASA/Austevoll Seafood AS/Marin IT AS__
 
-__Project:__ Replace the older Cusco Unified Call manager (CUCM) solution. As the project got working the head technical lead left the company and project was paused. Before handing it over to me the scope had grown and there were now requests for new features that was required before launch. We implemented softphone calling in Cisco Jabber, added new logic for phone queueing and increased security with regards to having services available from anywhere. Basic features implemented was new call managers (publishers and subscribers) globally, configuring phone gateways, creating call logic and routing.
+__Project:__ Replace the older Cusco Unified Call manager (CUCM) solution. As the project got working the head technical lead left the company and project was paused. Before handing it over to me the scope had grown and there were now requests for new features that was required before launch. We implemented softphone calling in Cisco Jabber, added new logic for phone queueing and increased security with regards to having services available from anywhere. Basic features implemented were new call managers (publishers and subscribers) globally, new phone gateways, new call logic and routing.
 
 __Result:__ New CUCM rolled out with new features such as softphone and hunt pilot queueing (helpdesk queue)
 
@@ -46,7 +46,7 @@ __Technologies/Tools:__ Cisco UCM, Windows Active Directory, Cisco Webex
 `Summer 2020`
 __DOF ASA/Austevoll Seafood AS/Marin IT AS__
 
-__Project:__ In 2019 the implementation of the Cisco Webex codecs was made and these were installed globally. As license renewal for Pexip was this summer we looked at what Cisco could offer with regards to video conferencing, audio bridging and cloud video interop (CVI). Cisco Webex was therefore rolled out to the major customers of Marin IT using the Cisco Webex codecs. Project was working in iterations as we were implementing features not supported by Cisco at the time (read. workarounds), and later having the released as features. Cisco Webex is fully integrated with Office 365/Azure for all organizations which provides calendar sync, user provisioning and authentication (MFA and Conditinal Access)
+__Project:__ In 2019 the implementation of the Cisco Webex codecs was made and these were installed globally. As license renewal for Pexip was this summer, we looked at what Cisco could offer with regards to video conferencing, audio bridging and cloud video interop (CVI). Cisco Webex was rolled out to the major customers of Marin IT using the Cisco Webex codecs. Project was working in iterations as we were implementing features not supported by Cisco at the time (i.e. workarounds), and later having the released as features. Cisco Webex is fully integrated with Office 365/Azure for all organizations which provides calendar sync, user provisioning and authentication (MFA and Conditinal Access)
 
 __Result:__ Currently there are 1200+ users onboarded and 20+ video systems ranging from systems for huddle rooms to large boardrooms.
 
@@ -71,10 +71,10 @@ __Role:__ Azure Administrator, Azure Enterprise Applications, Palo Alto global p
 `Spring 2020`
 __Marin IT AS__
 
-__Project:__ Created as a response to everyone suddenly on home office, and included installing and configuring more physical machines, upgrading the Citrix ADC (Netscaler), routing in the main firewall and onboarding a lot of new users.
+__Project:__ Created as a response to everyone suddenly on home office, and included installing and configuring more physical machines, upgrading the Citrix ADC (Netscaler), routing in the main firewall and onboarding new users.
 My responsibilities was assiting with configuring the netscaler correctly and monitoring it afterwards. We also had to make a few changes as to how the environment was accessed, meaning spreading users out on multiple gateways both on-premise and in the cloud.
 
-__Result:__ Project is still ongoing, but closed from the network side. The changes was made early on and adopted to fit the design, we now reap the benefits of having one workspace.
+__Result:__ Project is still ongoing, but closed from the network side. The changes was made early on and adopted to fit the design. 
 
 __Role:__ Network technician
 
