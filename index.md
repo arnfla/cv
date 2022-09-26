@@ -12,17 +12,17 @@ Systems Engineer
 
 ## Currently
 
-Working full time as a Systems/Network Engineer at Marin IT AS, with the main responsibility of the network infrastructure globally.
+Working full time as a Senior Network Specialist and Product Owner Network at Marin IT AS, with the main responsibility of the network infrastructure globally for Marin IT and its customers.
 
 
 ### Interest areas
 
-Networking, System Architecture and Cloud Solutions
+Networks, Cyber Security and Cloud Solutions
 
 
 ### Key Competence
 
-Service-Now, Juniper Networking, Solution Acrhitect,  Microsoft Azure Administration, System Administration, Windows Server, Powershell and ITIL
+Palo Alto Next-Generation Firewalls, Juniper Networking, Cisco Networking, Solution Architect,  Microsoft Azure Administration, Service-Now, Powershell and ITIL
 
 
 ## Certifications
@@ -57,6 +57,58 @@ __ServiceNow__
 
 
 ## Projects
+`Autumn 2022`
+__DOF ASA__
+Design and start implementation of 3CX calling solution for customer. 
+
+`Summer 2022`
+__DOF ASA__
+Design and start implementation of NIP3 network standard for core network and branch sites. 
+
+`Spring 2022`
+__DOF ASA/Marin IT AS__
+Identify and allow network traffic from offshore servers to other services. (Zero Trust network approach)
+
+`Spring 2022`
+__DOF ASA/Marin IT AS__
+Design and deploy Juniper Mist wireless solution to replace older WIFI solution. 
+
+`Winter 2021`
+__DOF ASA/Marin IT AS__
+Enable SSL Inbound Inspection for services exposed externally. (Log4J response)
+
+`Winter 2021`
+__DOF ASA/Marin IT AS__
+Deploy enterprise scale landing zone (ESLZ) for DOF ASA and Marin IT AS to be able to use cloud services more efficiently. Deployed with 3rd-party NGFW. 
+
+`Winter 2021`
+__Marin IT AS__
+Implement 3CX calling solution for Marin IT. Move UC for Marin IT from an on-premise system to cloud calling. 
+
+`Autumn 2021`
+__DOF ASA/Austevoll Seafood AS__
+Implement cloud video interop (CVI) for customer to be able to use MS teams meetings natively on Cisco Webex hardware. 
+
+`Summer 2021`
+__DOF ASA/Austevoll Seafood AS/FMV AS/Marin IT AS__
+Implement radius solution for network authenticating Azure joined Windows 10 devices. 
+
+`Spring 2021`
+__Marin IT AS__
+Implement NIP2 network standard for core network in Bergen
+
+`Spring 2021`
+__DOF ASA__ 
+Design and implement WIFI@Sea concept for Vessel use. 
+
+`Winter 2020`
+__DOF ASA/Marin IT AS__
+Implement Citrix SD-WAN in Core Network and Branch offices (remotely)
+
+`Autumn 2020`
+__Marin IT AS__
+Upgrade core network firewalls to new model. 
+
 `Summer 2020`
 __DOF ASA/Austevoll Seafood AS/FMV AS/Marin IT AS__
 Migrate from on-premise Skype for business to Microsoft Teams for chat, calls and meetings.
@@ -87,7 +139,7 @@ Skandi Singapore wireless installation and system overhaul in Singapore.
 
 `Spring 2020`
 __Marin IT AS__
-Network infrastructure upgrade to new design - Asia Pacific
+Network infrastructure upgrade to new design - APAC (including Australia)
 
 `Winter 2019`
 __Marin IT AS__
@@ -137,7 +189,11 @@ __Best bachelor thesis of the year__
 
 ## Occupation
 
-`May, 2019 - Currently`
+`May, 2022 - Currently`
+__Marin IT AS__
+- Senior Network Specialist, Full time
+
+`May, 2019 - May 2022`
 __Marin IT AS__
 - Systems Engineer, Full time
 
