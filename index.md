@@ -3,7 +3,7 @@ layout: cv
 title: Arne Engelsen Flatekval
 ---
 # Arne Engelsen Flatekval
-Systems Engineer
+Senior Network Specialist and Product Owner Network
 
 <div id="webaddress">
   <a href="mailto:arne@flatekval.no">arne@flatekval.no</a> |
